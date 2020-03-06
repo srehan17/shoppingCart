@@ -1,0 +1,23 @@
+.nav-item {
+  display: inline-block;
+  margin: 10px;
+}
+
+nav {
+  background-color: orange;
+}
+
+.buttonTrue {
+  background-color: orange;
+}
+
+.buttonFalse {
+  background-color: purple;
+}
+
+footer {
+  margin-top: 140px;
+  padding: 20px;
+  background-color: lightgray;
+  text-align: right;
+}
